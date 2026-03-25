@@ -1,9 +1,10 @@
 # PAIRR
 This is the data and supplementary files repository for the Peer &amp; AI Review and Reflection project.
 
-The csv file "winter_spring_2024_whole_sample_110724_anonmyized.csv" includes the student survey data that we collected in the winter and spring terms of 2024.
+Within the "data" folder:
+- The csv file "winter_spring_2024_whole_sample_110724.csv" includes the student survey data that we collected in the winter and spring terms of 2024.
 
-The csv file "combined_spring_24_25_data_072525.csv" includes the student survey data that we collected in the spring 2024 and spring 2025 terms.
+- The csv file "combined_spring_24_25_data_072525.csv" includes the student survey data that we collected in the spring 2024 and spring 2025 terms.
 
 These files are licensed for reuse and remixing with attribution under a CC BY NC license. Please give credit to the Peer & AI Review + Reflection Project.
 
